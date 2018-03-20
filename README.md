@@ -1,8 +1,8 @@
 # Objective
 - Find out the cause of app crash when pressing “BACK” button on “Cocos2dx Activity”.
 
-- Please try if the crash happens on your device
-- Please let me know any hint about the cause of the problem
+* Please try if the crash happens on your device
+* Please let me know any hint about the cause of the problem
 
 # Situation
 This Android project is created for debugging app crash of cocos2dx activity at pressing BACK button.
