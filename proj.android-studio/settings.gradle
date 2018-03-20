@@ -1,0 +1,4 @@
+include ':TestCoco1'
+project(':TestCoco1').projectDir = new File(settingsDir, 'app')
+include ':libcocos2dx'
+project(':libcocos2dx').projectDir = new File(settingsDir, '../cocos2d/cocos/platform/android/libcocos2dx')
